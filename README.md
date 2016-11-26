@@ -3,7 +3,7 @@ frontend-nanodegree-arcade-game
 
 Running the game
 ----------------
-Visit the index.html file in your browser.
+Visit the https://kotovsergey.github.io/arcade-game/index.html link in your browser.
 
 Playing the game
 ----------------
